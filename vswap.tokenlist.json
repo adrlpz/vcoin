@@ -1,10 +1,7 @@
 {
   "name": "Ventura Swap Token List",
   "logoURI": "https://raw.githubusercontent.com/adrlpz/vcoin/main/vcoindark.png",
-  "keywords": [
-    "compound",
-    "defi"
-  ],
+  "keywords": ["compound", "defi"],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
