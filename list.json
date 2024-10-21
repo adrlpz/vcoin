@@ -1,0 +1,29 @@
+{
+  "name": "Token List",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": ["compound", "defi"],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 90331,
+      "address": "0xCd1E14C54C6E79A22d13059027fd03ee485A082F",
+      "name": "Wrapped 0xP",
+      "symbol": "w0xP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 90331,
+      "address": "0x4eB8983b733aA354Ff257D5B056F2dd15DD3a208",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
