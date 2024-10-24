@@ -6,11 +6,11 @@
   "tokens": [
     {
       "chainId": 76115,
-      "address": "0xCeDF1DE0608b41F037ee8728C85ee838D2BD8563",
+      "address": "0x1CBcbaBd23b7377c9f6DF380DD4Ff1D8C26f2380",
       "name": "Wrapped Maze",
       "symbol": "WMAZE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/"
+      "logoURI": "/images/coins/wmaze.png"
     }
   ],
   "version": {
